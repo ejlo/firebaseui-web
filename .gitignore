@@ -5,6 +5,7 @@ node_modules/
 generated/
 out/
 demo/public/dist/
+dist/esm__current.js
 .firebase
 
 # Generated files.
